@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final int SPLASH_DISPLAY_LENGTH = 3000; // 3초
+    private static final int SPLASH_DISPLAY_LENGTH = 2900; // 3초
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
